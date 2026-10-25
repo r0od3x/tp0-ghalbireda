@@ -1,4 +1,4 @@
-package ma.emsi.ghalbireda.tp0ghalbireda;
+package ma.emsi.ghalbireda.tp0;
 
 import java.io.*;
 
